@@ -1,7 +1,11 @@
 # Data and Cache
 .mypy_cache/
-Saved_Game_
 
-# Optional but useful:
+# Saved games - ignore all files starting with "Saved_Game_"
+Saved_Game_*
+
+# Test files - ignore all files starting with "test_"
+test_*
+
+# Python cache
 __pycache__/
-test_
