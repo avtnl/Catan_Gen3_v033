@@ -1,11 +1,15 @@
 # Data and Cache
 .mypy_cache/
 
-# Saved games - ignore all files starting with "Saved_Game_"
+# Saved games
 Saved_Game_*
 
-# Test files - ignore all files starting with "test_"
+# Test files
 test_*
 
-# Python cache
+# Reports / Timing data - Keep empty folders, ignore contents
+ActionTimingReports/*
+StrategyTimingReports/*
+
+# Python
 __pycache__/
