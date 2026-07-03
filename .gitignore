@@ -1,0 +1,7 @@
+# Data and Cache
+.mypy_cache/
+Saved_Game_
+
+# Optional but useful:
+__pycache__/
+test_

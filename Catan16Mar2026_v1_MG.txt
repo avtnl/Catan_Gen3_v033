@@ -1,0 +1,1118 @@
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui.py | print_queues | Elements: [((510, 286), (255, 0, 0), 20, 'settlement')]
+gui_human_player.py | button_twp_mode_row | active=True mode=ai
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: False
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: False
+gui_human_player.py | button_twb | Active: False
+gui_human_player.py | button_roll_dices | Active: False
+gui_human_player.py | button_next_turn2 | Active: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
+gui_human_player.py | button_next_turn2 | Active: False
+gui_human_player.py | _button_right_action | End: True
+gui_human_player.py | button_buy_city | Active: False
+gui_human_player.py | button_buy_settlement | Active: False
+gui_human_player.py | button_buy_road | Active: False
+gui_human_player.py | button_buy_dcard | Active: False
+gui_human_player.py | button_twp | Active: True
+gui_human_player.py | button_twb | Active: True
+gui_human_player.py | text_buy | Active: False
+gui_human_player.py | text_trade | Active: True
+gui_human_player.py | show_buttons_HP | Rendered buttons for phase: Execution, analysis_tf: False
+player.py | rcards_in_hand for Player: 3 | rcards5: [4, 0, 0, 1, 0] | TR: [3, 3, 3, 3, 3] | TRinR5: [1, 0, 0, 0, 0]
